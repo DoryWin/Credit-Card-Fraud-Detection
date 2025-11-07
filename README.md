@@ -1,1 +1,3 @@
 # Credit-Card-Fraud-Detection
+
+Built a machine learning model to detect fraudulent credit card transactions using Python. Conducted data preprocessing, exploratory data analysis (EDA), and feature selection to understand class imbalance and transaction patterns. Applied undersampling techniques to address data imbalance and trained a Logistic Regression classifier using Scikit-learn. Evaluated model performance through accuracy, precision, recall, and F1-score, optimizing thresholds for improved fraud detection. Utilized Pandas, NumPy, and Scikit-learn for data manipulation, model development, and evaluation.
